@@ -123,3 +123,21 @@ body.browser-msie .acf-repeater .acf-row-handle .acf-icon.-minus {
 .acf-repeater.-table .acf-row.-collapsed .acf-field.-collapsed-target {
   border-left-color: #dfdfdf;
 }
+
+/* Add more styles */
+.acf-field-object-repeater .acf-field-type-settings {
+  padding-right: 72px !important;
+  padding-left: 72px !important;
+}
+
+.acf-field-object-repeater .acf-field-list-wrap {
+  margin-bottom: 15px !important;
+}
+
+.acf-field-object-repeater .acf-field-setting-sub_fields {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  width: 100% !important;
+}
